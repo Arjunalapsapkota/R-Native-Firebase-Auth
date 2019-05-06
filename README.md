@@ -3,4 +3,4 @@
 
 ![while Loading](https://github.com/Arjunalapsapkota/R-Native-Firebase-Auth/blob/master/src/Loading.png)
 
-![check input field](https://github.com/Arjunalapsapkota/R-Native-Firebase-Auth/blob/master/src/Check.png)
+
